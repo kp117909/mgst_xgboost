@@ -1,0 +1,9 @@
+Metryka,Wynik
+Best AUC - Wbudowane XGBoost,0.79
+Accuracy,0.72
+Precision,0.76
+Recall,0.67
+F1 Score,0.71
+Log Loss,0.55
+AUC,0.81
+Best Params,"{'objective': 'binary:logistic', 'eval_metric': 'auc', 'max_depth': 4, 'learning_rate': 0.1, 'seed': 42}"
